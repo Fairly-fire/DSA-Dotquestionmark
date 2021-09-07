@@ -18,3 +18,21 @@ int main()
     cout<<fibonacci(n)<<endl;
     return 0;
 }
+
+// FIBONACCI SERIES (2nd METHOD)
+#include <iostream>
+using namespace std;
+int main()
+{
+    int num;
+    cout<<"enter the number fiboncii series";
+    cin>>num;
+    for(i=0;i<num;i++)
+    {
+        cout<<a;
+        c=a+b;
+        a=b;
+        b=c;
+    }
+}
+
